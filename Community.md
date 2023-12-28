@@ -55,4 +55,21 @@
     <td>Ashoka University</td>
   </tr>
 </table>
-
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Aalekh</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/Graviton19</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/your-linkedin</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>IIIT Surat</td>
+      </tr>
+    </table>
